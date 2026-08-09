@@ -11,7 +11,8 @@
 
 https://research.ideas.gijinlab.com/
 
-<img width="1718" height="867" alt="image" src="https://github.com/user-attachments/assets/853d337b-d6ea-4309-9882-152bea0dccaa" />
+<img width="1689" height="807" alt="image" src="https://github.com/user-attachments/assets/b8cf8734-0362-4baf-976d-b63c28ab883a" />
+
 
 ## PapaIki Museum
 
@@ -20,4 +21,6 @@ https://research.ideas.gijinlab.com/
 
 https://papaiki.gijinlab.com/
 
-<img width="1862" height="817" alt="image" src="https://github.com/user-attachments/assets/81058d51-c4c1-4dd9-ba61-768b68c1cbb3" />
+<img width="1863" height="778" alt="image" src="https://github.com/user-attachments/assets/08c4a84f-8e05-4126-a00c-054288b11ed4" />
+
+
